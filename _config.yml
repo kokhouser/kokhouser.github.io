@@ -8,14 +8,14 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Obsessive Compulsive Misnomer
+title : ObsessiveCompulsiveMisnomer
 tagline: HaoZhe's Personal & Professional Hub
 author :
   name : HaoZhe Kok (Houser)  
   email : hzk11a@acu.edu
   github : kokhouser
   twitter : kokhouser
-  feedburner : none
+  # feedburner : none
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -80,9 +80,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
-      short_name : jekyllbootstrap
+      short_name : obsessivecompulsivemisnomer
     livefyre :
       site_id : 123
     intensedebate :
