@@ -6,5 +6,12 @@ group: navigation
 ---
 {% include JB/setup %}
 
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
+<!--
 {% assign posts_collate = site.posts %}
 {% include JB/posts_collate %}
+-->

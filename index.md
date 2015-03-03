@@ -11,9 +11,9 @@ Welcome! As you, dear Constant Reader, can see, I've finally gotten a domain nam
 ##Technologies
 This site is almost completely powered by [Jekyll](http://jekyllrb.com/), and the particular flavour I've chosen to pretty it up is [Jekyll Bootstrap](http://jekyllbootstrap.com).
 
-Jekyll-Bootstrap combines [Jekyll](http://jekyllrb.com/), a powerful parsing engine that's kind of the halfway point between the general blogging platform and building a blog from scratch (their site calls it a static-site engine), and [Bootstrap](http://getbootstrap.com/), Twitter's easy-to-use design framework. The reason I went with Bootstrap is because I had dabbled with it briefly for classes, and I found it easy to use, albeit rather bland after awhile.
+Jekyll-Bootstrap combines [Jekyll](http://jekyllrb.com/), a powerful parsing engine that's kind of the halfway point between a generic blogging platform and building a blog from scratch (their documentation calls it a "static-site engine", which I guess is fancy-talk for making self-contained webpages), and [Bootstrap](http://getbootstrap.com/), Twitter's easy-to-use design framework. The reason I went with Bootstrap is because I had dabbled with it briefly for classes, and I found it easy to use, albeit rather bland after a while.
 
-The thing I love about Jekyll so far is that I end up using [Markdown](http://en.wikipedia.org/wiki/Markdown) to pretty up my content. Having dabbled with MD awhile ago while constructing the project page for my loved-but-neglected [Android Simplified Drawer](http://obsessivecompulsivemisnomer.com/AndroidSimplifiedDrawer/), I've fallen for its simplicty and elegance. Its integration (through plugins) with Sublime Text is just icing on the cake.
+The thing I love about Jekyll so far is that I end up using [Markdown](http://en.wikipedia.org/wiki/Markdown) to pretty up my content. Having dabbled with MD a while ago while constructing the project page for my loved-but-neglected [Android Simplified Drawer](http://obsessivecompulsivemisnomer.com/AndroidSimplifiedDrawer/), I've fallen for its simplicty and elegance. Its integration (through plugins) with Sublime Text is just icing on the cake.
 
 The technologies I've chosen are subject to change, as this site is as much as learning tool as it is a personal-professional hub.
 
@@ -23,10 +23,10 @@ As previously mentioned, I'll mostly be using this site for two main purposes:
 ###1. As a professional hub:
 In the forseeable future, I hope to have most of the projects I'm proud of shown off on this site through a code portfolio of sorts. In the meantime, there's a handy link to my GitHub page on the top right of this page.
 
-Furthermore, I plan to also blog more about the technical aspects of the things I do. This is so I can keep a log detailing my exploration of new technologies, as well as to hopefully provide tutorials that may one day help others.
+Furthermore, I plan to also blog more about the technical aspects of the things I do. This is so I can keep a log detailing my exploration of my first love - technology, as well as to hopefully provide tutorials that may one day help others.
 
 ###2. As a personal hub:
-I'll be migrating my personal blog onto this site as well. Whether or not I end up sticking to a consistent posting schedule is still up for speculation. :)
+I'll be migrating my personal blog ("Bleargh" on the navbar) onto this site as well. Whether or not I end up sticking to a consistent posting schedule is still up for speculation. :)
 
     
 ## What Now?
