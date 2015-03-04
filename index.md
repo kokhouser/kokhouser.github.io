@@ -19,12 +19,12 @@ The technologies I've chosen are subject to change, as this site is as much as l
 ## Function
 As previously mentioned, I'll mostly be using this site for two main purposes:
 
-###1. As a professional hub:
+####1. As a professional hub:
 In the forseeable future, I hope to have most of the projects I'm proud of shown off on this site through a code portfolio of sorts. In the meantime, there's a handy link to my GitHub page on the top right of this page.
 
 Furthermore, I plan to also blog more about the technical aspects of the things I do. This is so I can keep a log detailing my exploration of my first love - technology, as well as to hopefully provide tutorials that may one day help others.
 
-###2. As a personal hub:
+####2. As a personal hub:
 I'll be migrating my personal blog ("Bleargh" on the navbar) onto this site as well. Whether or not I end up sticking to a consistent posting schedule is still up for speculation. :)
 
     
