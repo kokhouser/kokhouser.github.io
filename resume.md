@@ -2,27 +2,25 @@
 layout: page
 title: Resume
 tagline: Headhunters look no further.
-group: navigation
+permalink: /resume/
+feature-img: "img/sample_feature_img_2.png"
 ---
-{% include JB/setup %}
 
-#Note
-The following resume is probably my most updated version. It is also more detailed and thus lengthier than the recommended single page.
-
-[Click here for my LinkedIn profile](https://www.linkedin.com/in/kokhouser)
+###Note
+The following resume is probably my most updated version. It is also more detailed and thus lengthier than the recommended single page. Also note that there's a sweet link to my LinkedIn profile to the top-right of the screen.
 
 
->#Hao Zhe Kok (Houser)
+#Hao Zhe Kok (Houser)
 
 Email: hzk11a@acu.edu 
 
 GitHub Profile: [kokhouser](https://github.com/kokhouser)
 
->#Profile
+#Profile
 
 Aspiring software developer with three years of programming experience.
 
->#Education
+#Education
 
 Abilene Christian University
 
@@ -34,9 +32,9 @@ Expected Graduation: December 2015
 
 Vice President of the Association of Computing Machinery (ACM), ACU Chapter
 
->#Experience
+#Experience
 
-##Lead Developer | Wildcat Software (Abilene Christian University) | August 2014 - Present
+###Lead Developer | Wildcat Software (Abilene Christian University) | August 2014 - Present
 
 Function as lead developer for the first project team of a student-run software company in ACU.
 
@@ -52,7 +50,7 @@ Decided upon and setting up a cohesive development environment for the developer
 
 All duties of a regular developer also applies.
 
-##Software Engineering Intern | Materialise (Malaysian Office) | May 2014 - August 2014
+###Software Engineering Intern | Materialise (Malaysian Office) | May 2014 - August 2014
 
 Was part of the pilot Android development team in the Materialise office, established as part of an initiative to kick-start mobile app development in the company.
 
@@ -66,7 +64,7 @@ Introduced Git for version control in an experimental capacity.
 
 Became familiar with Git workflows and applying them for optimal collaboration.
 
-##Course Assistant & Tutor | Abilene Christian University | January 2013 - May 2014
+###Course Assistant & Tutor | Abilene Christian University | January 2013 - May 2014
 
 Mainly tasked with preparing and grading student assignments for an introductory networking course (IT 221 - Introduction to Data Communications and Networking)
 
@@ -76,7 +74,7 @@ Installing IT equipment used in networking classrooms (servers & single-board co
 
 Setting up student credentials for servers used in various IT/CS courses.
 
->#Languages
+#Languages
 
 Fluent in English, Mandarin Chinese, Bahasa Melayu (Malay), Cantonese.
 
@@ -86,7 +84,7 @@ Fluent in C/C++, Java, Python, PHP, Ruby, MySQL, HTML, CSS.
 
 Familiar with Jekyll, Bootstrap and Markdown.
 
->#Skills
+#Skills
 
 Familiar with various networking and database concepts (Normal Forms, TCP/UDP etc).
 
@@ -100,7 +98,7 @@ Familiar with the Android SDK.
 
 Extremely self-sufficient. Capable of learning new skills and technologies in a relatively short timespan.
 
->#Technical Experience and Side Projects
+#Technical Experience and Side Projects
 
 Note: I am trying to get notable projects their own project pages.
 
