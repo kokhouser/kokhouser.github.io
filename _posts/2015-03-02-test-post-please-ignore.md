@@ -1,17 +1,13 @@
 ---
 layout: post
 title: Test Post, Please Ignore
-categories: []
-tags: []
 published: True
 
 ---
 
 
-Wow, setting up Jekyll is both really fun, and really complicated.
+<p>Wow, setting up Jekyll is both really fun, and really complicated.</p>
+<p>I love it.</p>
+<p>Anyway, it is taking me a bit longer than expected before I can get this up and running, so to the one person that knows this site exists - the following paradox infographic is for you.</p>
 
-I love it.
-
-Anyway, it is taking me a bit longer than expected before I can get this up and running, so to the one person that knows this site exists - the following paradox infographic is for you.
-
-![This sentence is forever false.](/img/para_info.jpg)
+<img src="/assets/images/para_info.jpg" alt="This sentence is forever false.">
