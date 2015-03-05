@@ -20,7 +20,7 @@ published: True
 </p>
 
 <p>
-	Fast forward to early January of this year. I've started my Web Development course, and really quickly crash-coursed through the early introduction to HTML and CSS. Both were technologies I had already dabbled with since my first exposure to the web, but had never actually spent time getting better-acquainted with. After a disasterous first class project (the details of which I wish not go into), I've realized that not only did I understand basic web development well, but that I actually enjoyed doing it.
+	Fast forward to early January of this year. I've started my Web Development course, and really quickly crash-coursed through the early introduction to HTML and CSS. Both were technologies I had already dabbled with since my first exposure to the web, but had never actually spent time getting better-acquainted with. After a disastrous first class project (the details of which I wish not go into), I've realized that not only did I understand basic web development well, but that I actually enjoyed doing it.
 </p>
 
 <p>
