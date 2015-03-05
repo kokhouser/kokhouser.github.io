@@ -977,12 +977,28 @@
 		font-weight: 300;
 	}
 
+	#featuredToo h3
+	{
+		display: block;
+		font-weight: 300;
+	}
+
 	#featured .pennant
+	{
+		font-size: 4em;
+	}
+
+	#featuredToo .pennant
 	{
 		font-size: 4em;
 	}
 	
 	#featured .button
+	{
+		margin-top: 1.5em;
+	}
+
+	#featuredToo .button
 	{
 		margin-top: 1.5em;
 	}
