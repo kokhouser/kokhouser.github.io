@@ -771,7 +771,7 @@
 	#header
 	{
 		position: relative;
-		background: url(../images/header.jpg) no-repeat bottom center;
+		background: url(../images/header.png) no-repeat bottom center;
 		background-attachment: fixed;
 		background-size: cover;
 		text-align: center;
@@ -825,6 +825,7 @@
 /* Nav                                                                           */
 /*********************************************************************************/
 
+
 	#nav
 	{
 	}
@@ -844,6 +845,7 @@
 			padding: 0;
 			text-align: center;
 		}
+
 
 		#nav > ul > li
 		{
@@ -993,7 +995,7 @@
 	{
 		position: relative;
 		text-align: center;
-		background: url(../images/header.jpg) no-repeat center center;
+		/*background: url(../images/header.jpg) no-repeat center center;*/
 		background-attachment: fixed;
 		background-size: cover;
 	}
