@@ -43,7 +43,7 @@ published: True
 
 <p>
 	<b>3. Finding a compromise between the first two options and hosting the site through <a href="https://pages.github.com/">GitHub Pages</a>:</b> <br>
-	The wonderful magic of hind-sight has revealed that I chose this option, again for a variety of reasons. For starters, the fact that I'd be learning Jekyll, something I've been wanting to dabble with for a while now, was really appealing to me. Also, there's something elegant about being this close to self-creating, yet relying on lightweight frameworks to do a lot of the heavy-lifting. As a professor of mine keeps reminding us - "Why reinvent the wheel?"<br>
+	The wonderful magic of hind-sight has revealed that I chosen this option, again for a variety of reasons. For starters, the fact that I'd be learning Jekyll, something I've been wanting to dabble with for a while now, was really appealing to me. Also, there's something elegant about being this close to self-creating a site from scratch, yet relying on lightweight frameworks to do a lot of the heavy-lifting. As a professor of mine keeps reminding us - "Why reinvent the wheel?"<br>
 	<br>
 	Oh, and did I mention that it's free? Yes, the only thing I've spent money on is the $12 flat yearly fee to own this domain. Talk about thriftiness.
 </p>
