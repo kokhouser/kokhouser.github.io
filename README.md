@@ -1,14 +1,5 @@
-# Type Theme
+# Obsessive Compulsive Misnomer
 
-![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)
+GitHub repository for my Jekyll-powered site.
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
-
-## Get Started
-
-[Demo](https://rohanchandra.github.io/type-theme/)
-
-[Using Type](https://rohanchandra.github.io/project/type/)
-
-## License
-The MIT License (MIT)
+Click [here](http://obsessivecompulsivemisnomer.com/) to check it out.
