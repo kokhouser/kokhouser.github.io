@@ -7,9 +7,7 @@ published: True
 
 ---
 
-<hr />
 	<b>Disclaimer: The following post may be controversial as I talk about some of the more sensitive issues regarding foreign employment in the United States. If you have strong feelings about the issue, I'd love to discuss if you're willing. If you would otherwise prefer to skip it entirely, feel free to scroll down to where I've bolded the words: "Controversy ends here, happy news ahead!"</b>
-<hr />
 <p>
 	If you've applied to a job in the United States, chances are you've seen something like this:- <br><br>
 </p>
