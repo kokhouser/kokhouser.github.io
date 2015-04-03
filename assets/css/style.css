@@ -163,6 +163,8 @@
 		.image
 		{
 			display: inline-block;
+			height: auto;
+			max-width: 100%;
 		}
 		
 			.image img
@@ -175,33 +177,35 @@
 			.image.featured
 			{
 				display: block;
-				width: 100%;
+				max-width: 100%;
 				margin: 0 0 2em 0;
 			}
 			
 			.image.full
 			{
 				display: block;
-				width: 100%;
+				max-width: 100%;
 				margin-bottom: 2em;
 			}
 			
 			.image.left
 			{
 				float: left;
+				max-width: 100%;
 				margin: 0 2em 2em 0;
 			}
 			
 			.image.centered
 			{
 				display: block;
+				max-width: 100%;
 				margin: 0 0 2em 0;
 			}
 
 				.image.centered img
 				{
 					margin: 0 auto;
-					width: auto;
+					max-width: 100%;
 				}
 
 	/* Lists */
