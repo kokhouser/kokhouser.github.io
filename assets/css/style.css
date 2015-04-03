@@ -167,8 +167,9 @@
 		
 			.image img
 			{
+				height: auto;
 				display: block;
-				width: 100%;
+				max-width: 100%;
 			}
 
 			.image.featured
@@ -771,7 +772,7 @@
 	#header
 	{
 		position: relative;
-		background: url(../images/header2.jpg) no-repeat bottom center;
+		background: url(../images/header3.jpg) no-repeat bottom center;
 		background-attachment: fixed;
 		background-size: cover;
 		text-align: center;
