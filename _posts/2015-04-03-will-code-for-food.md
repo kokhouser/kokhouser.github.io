@@ -14,7 +14,7 @@ published: True
 	If you've applied to a job in the United States, chances are you've seen something like this:- <br><br>
 </p>
 
-	<img src="/assets/images/bullcrap.png">
+	<img src="/assets/images/bullcrap.png" style="max-width:100%;height:auto;">
 <br>
 <br>
 <p>
