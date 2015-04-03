@@ -82,6 +82,20 @@
 /* UI                                                                            */
 /*********************************************************************************/
 
+		.image
+		{
+			display: inline-block;
+			height: auto;
+			max-width: 100%;
+		}
+		
+			.image img
+			{
+				height: auto;
+				display: block;
+				max-width: 100%;
+			}
+
 	#titleBar
 	{
 		background: #161616;
