@@ -74,7 +74,7 @@
 	.button
 	{
 		display: block;
-		width: 100%;
+		max-width: 90%;
 		text-align: center;
 	}
 
@@ -86,14 +86,14 @@
 		{
 			display: inline-block;
 			height: auto;
-			max-width: 100%;
+			max-width: 90%;
 		}
 		
 			.image img
 			{
 				height: auto;
 				display: block;
-				max-width: 100%;
+				max-width: 90%;
 			}
 
 	#titleBar
