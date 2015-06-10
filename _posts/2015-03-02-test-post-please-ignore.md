@@ -10,4 +10,4 @@ published: True
 <p>I love it.</p>
 <p>Anyway, it is taking me a bit longer than expected before I can get this up and running, so to the one person that knows this site exists - the following paradox infographic is for you.</p>
 
-<img src="/assets/images/para_info.jpg" alt="This sentence is forever false." style="max-width:100%;height:auto;">
+<img src="/assets/images/para_info.jpg" alt="This sentence is forever false." style="max-width:95%;height:auto;">

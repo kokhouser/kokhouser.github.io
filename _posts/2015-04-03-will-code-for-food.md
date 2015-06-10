@@ -14,7 +14,7 @@ published: True
 	If you've applied to a job in the United States, chances are you've seen something like this:- <br><br>
 </p>
 
-	<img src="/assets/images/bullcrap.png" style="max-width:100%;height:auto;">
+	<img src="/assets/images/bullcrap.png" style="max-width:95%;height:auto;">
 <br>
 <br>
 <p>
@@ -23,14 +23,14 @@ published: True
 	<br>
 </p>
 
-	<img src="/assets/images/sadness.png" style="max-width:100%;height:auto;"> <br>
+	<img src="/assets/images/sadness.png" style="max-width:95%;height:auto;"> <br>
 
 <br>
 <p>
 	The above image is a screengrab of a spreadsheet I have to keep track of my internship applications. I've applied to more than 60 different companies for a shot at a Summer internship. Most don't reply, and the ones that do never have good news. The companies I've applied to also run the gamut from huge corporations to startups. Yet not a single one have offered me even a preliminary screening interview, and that's because I've already been screened when I answer this one question:- <br> <br>
 	</p>
 
-	<img src="/assets/images/sadness2.jpeg" style="max-width:100%;height:auto;"> <br>
+	<img src="/assets/images/sadness2.jpeg" style="max-width:95%;height:auto;"> <br>
 
 <br>
 <p>
@@ -55,7 +55,7 @@ published: True
 
 	It is clear to me now that the barrier to entry for International Students seeking to obtain lawful employment in the States is too high for me right now, and so I've given up on my year-long search for an internship for the Summer.<br><br>
 
-	<img src="http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/You1.png" style="max-width:100%;height:auto;"> <br><br> 
+	<img src="http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/You1.png" style="max-width:95%;height:auto;"> <br><br> 
 	Note: Image ripped off from <a href = "http://waitbutwhy.com/" target="_blank">WaitButWhy</a>
 
 	<hr />
