@@ -25,7 +25,7 @@
 		font-size: 11pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #777;
+		color: #000000;
 	}
 
 	h1,h2,h3,h4,h5,h6
@@ -895,7 +895,7 @@
 	#main
 	{
 		position: relative;
-		background: #fff;
+		background: #f3f3f3;
 	}
 	
 	.homepage #content
