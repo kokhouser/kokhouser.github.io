@@ -164,48 +164,48 @@
 		{
 			display: inline-block;
 			height: auto;
-			max-width: 100%;
+			max-width: 95%;
 		}
 		
 			.image img
 			{
 				height: auto;
 				display: block;
-				max-width: 100%;
+				max-width: 95%;
 			}
 
 			.image.featured
 			{
 				display: block;
-				max-width: 100%;
+				max-width: 95%;
 				margin: 0 0 2em 0;
 			}
 			
 			.image.full
 			{
 				display: block;
-				max-width: 100%;
+				max-width: 95%;
 				margin-bottom: 2em;
 			}
 			
 			.image.left
 			{
 				float: left;
-				max-width: 100%;
+				max-width: 95%;
 				margin: 0 2em 2em 0;
 			}
 			
 			.image.centered
 			{
 				display: block;
-				max-width: 100%;
+				max-width: 95%;
 				margin: 0 0 2em 0;
 			}
 
 				.image.centered img
 				{
 					margin: 0 auto;
-					max-width: 100%;
+					max-width: 95%;
 				}
 
 	/* Lists */

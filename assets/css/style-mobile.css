@@ -86,14 +86,14 @@
 		{
 			display: inline-block;
 			height: auto;
-			max-width: 100%;
+			max-width: 95%;
 		}
 		
 			.image img
 			{
 				height: auto;
 				display: block;
-				max-width: 100%;
+				max-width: 95%;
 			}
 
 	#titleBar
