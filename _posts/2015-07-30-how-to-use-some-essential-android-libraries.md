@@ -9,7 +9,10 @@ published: True
 
 <p>
 	With some free time on my hands, and some plans to spin up Android development again, I've gone ahead and experimented with some API's and libraries I've been reading about a lot. One thing led to another and I now have an app on the Play Store, mainly as an example on the libraries detailed in this post. For shameless reference however, you can find my app <a href="">here</a>. <br> <br>
-	The app is also fully open-source code, with the source code available <a href="https://github.com/kokhouser/NAPOD">here</a>. <br> <br>
+	The app is also fully open-source code, with the source code available <a href="https://github.com/kokhouser/NAPOD">here</a>.
+</p>
+
+<p>
 	So without further ado, I'll write a bit about how to go about recreating this app, which is a image viewer for <a href="https://api.nasa.gov/api.html#apod">Nasa's Astronomy Picture of The Day</a>. This app also can be used to download the pictures, as well as integrate fully with <a href="https://play.google.com/store/apps/details?id=net.nurik.roman.muzei&hl=en">Muzei</a>, a popular live wallpaper by the talented <a href="http://roman.nurik.net/">Roman Nurik</a>. With Muzei integration, it's possible to set your wallpaper to pull a new NAPOD image daily, as well as set up a custom watchface for your Android Wear device if you happen to have one.<br><br>
 	Note: This post assumes we're using Android Studio 1.3 with the latest Android SDK. The entire process detailing how I created the app and published it to the Play Store would be detailed in several parts, with this one talking about obtaining data from REST API's and creating Java objects with the data using Retrofit and GSON
 </p>
