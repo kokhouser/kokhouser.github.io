@@ -61,6 +61,11 @@
 		text-decoration: none;
 		color: #80BA8E;
 	}
+
+	pre
+	{
+		background-color: #FBF6EA;
+	}
 	
 	a:hover
 	{
