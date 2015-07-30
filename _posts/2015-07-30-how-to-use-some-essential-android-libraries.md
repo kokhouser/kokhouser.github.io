@@ -8,7 +8,7 @@ published: True
 ---
 
 <p>
-	With some free time on my hands, and some plans to spin up Android development again, I've gone ahead and experimented with some API's and libraries I've been reading about a lot. One thing led to another and I now have an app on the Play Store, mainly as an example on the libraries detailed in this post. For shameless reference however, you can find my app <a href="">here</a>. <br> <br>
+	With some free time on my hands, and some plans to spin up Android development again, I've gone ahead and experimented with some API's and libraries I've been reading about a lot. One thing led to another and I now have an app on the Play Store, mainly as an example on the libraries detailed in this post. For shameless reference however, you can find my app <a href="https://play.google.com/store/apps/details?id=com.kokhouser.napod">here</a>. <br> <br>
 	The app is also fully open-source code, with the source code available <a href="https://github.com/kokhouser/NAPOD">here</a>.
 </p>
 
