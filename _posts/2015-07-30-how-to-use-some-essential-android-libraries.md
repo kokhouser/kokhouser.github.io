@@ -6,7 +6,6 @@ tags: []
 published: True
 
 ---
-
 <p>
 	With some free time on my hands, and some plans to spin up Android development again, I've gone ahead and experimented with some API's and libraries I've been reading about a lot. One thing led to another and I now have an app on the Play Store, mainly as an example on the libraries detailed in this post. For shameless reference however, you can find my app <a href="https://play.google.com/store/apps/details?id=com.kokhouser.napod">here</a>. <br> <br>
 	The app is also fully open-source code, with the source code available <a href="https://github.com/kokhouser/NAPOD">here</a>.
@@ -32,7 +31,7 @@ published: True
 	<br>
 <p>
 	First, we'll include all the required libraries in our app.gradle file. I should also mention that we'll need a NASA API key, which we can get <a href="https://api.nasa.gov/index.html#getting-started">here</a> or use the default demo key.
-	<pre><code>
+	<pre class="brush: java">
 		dependencies {
 		    compile fileTree(dir: 'libs', include: ['*.jar'])
 		    compile 'com.android.support:appcompat-v7:22.2.0'
@@ -45,19 +44,19 @@ published: True
 		    compile 'com.android.support:design:22.2.0'
 		    compile 'com.google.android.apps.muzei:muzei-api:+'
 		}
-	</code></pre>
+	</pre>
 	<br>
 	Since we'll only be talking about Retrofit and GSON today, we can get by the rest of this post with only the following dependencies:-
 	</p>
 	<br>
-	<pre><code>
+	<pre class="brush: java">
 		dependencies {
 		    compile fileTree(dir: 'libs', include: ['*.jar'])
 		    compile 'com.squareup.okhttp:okhttp:2.4.0'
 		    compile 'com.squareup.retrofit:retrofit:1.9.0'
 		    compile 'com.google.code.gson:gson:2.3'
 		}
-	</code></pre>
+	</pre>
 	<br>
 <p>
 	Next, we'll start by creating the model we need to store out astronomy picture, in this case I called it an Astropic. It would help if we created a "Models" directory under our project in Android Studio.
@@ -77,7 +76,7 @@ published: True
 	This will be our sample JSON which we'll use to generate code that describes our Java object, through a wonderful tool called <a href ="http://www.jsonschema2pojo.org/">JSONSchema2POJO</a>. Paste the JSON output into the box there, select "JSON" instead of "JSON Schema" under "Source Type", and "None" under "Annotation style". Accept the rest of the defaults and click "Preview". Copy what you see into a Java class in Android Studio, under Models.
 	</p>
 	<p>
-	<pre><code>
+	<pre class="brush: java">
 	package com.kokhouser.napod.models;
 
 	import com.google.gson.annotations.SerializedName;
@@ -97,7 +96,7 @@ published: True
 	    private String explanation;
 	    private Object concepts;
 	    private String title;
-	    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
+	    private Map&lt;String, Object> additionalProperties = new HashMap&lt;String, Object>();
 
 	    /**
 	     *
@@ -189,25 +188,23 @@ published: True
 	        this.title = title;
 	    }
 
-	    public Map<String, Object> getAdditionalProperties() {
+	    public Map&lt;String, Object> getAdditionalProperties() {
 	        return this.additionalProperties;
 	    }
 
 	    public void setAdditionalProperty(String name, Object value) {
 	        this.additionalProperties.put(name, value);
 	    }
-
 	}
-	</code></pre>
+	</pre>
 </p>
 <p>
-	<br>
 	Now that we have our Java object defined, we set up Retrofit and GSON to handle getting data in them.<br>
 	<br>
 	A quick look at the APOD API shows us that we'll need to call it with a few parameters. The ones we'll care about are "API_KEY" and "DATE". To create a Java interface for this API, we'll create it like so:- 
 </p>
 <p>
-	<code><pre>
+	<pre class="brush: java">
 		package com.kokhouser.napod.api;
 
 		import com.kokhouser.napod.models.Astropic;
@@ -222,12 +219,12 @@ published: True
 		 */
 		public interface APODAPIInterface {
 		    @GET("/planetary/apod")
-		    void getPictureWithKey(@Query("api_key")String apiKey, Callback<Astropic> cb);
+		    void getPictureWithKey(@Query("api_key")String apiKey, Callback&lt;Astropic> cb);
 
 		    @GET("/planetary/apod")
-		    void getPictureWithKeyAndDate(@Query("api_key")String apiKey, @Query("date")String date, Callback<Astropic> cb);
+		    void getPictureWithKeyAndDate(@Query("api_key")String apiKey, @Query("date")String date, Callback&lt;Astropic> cb);
 		}
-	</code></pre>
+	</pre>
 </p>
 <p>
 	Note that both of our API endpoints will be called asynchonously and thus have a callback function it'll call once it's done. <br>
@@ -235,7 +232,7 @@ published: True
 	Finally, we'll need to call this little API interface we've created. Creatively, we'll create an APICaller class to get this done:-
 </p>
 <p>
-	<code><pre>
+	<pre class="brush: java">
 	package com.kokhouser.napod.api;
 
 	/**
@@ -259,7 +256,7 @@ published: True
 
 	    public void callPictureAPIWithKey(final String key){
 	        //Prepare view for API call here;
-	        apodapiInterface.getPictureWithKey(key, new Callback<Astropic>() {
+	        apodapiInterface.getPictureWithKey(key, new Callback&lt;Astropic&gt() {
 	            @Override
 	            public void success(Astropic astropic, Response response) {
 	                if (astropic.getMediaType() != null && astropic.getMediaType().equals("video")) {
@@ -277,7 +274,7 @@ published: True
 	    }
 
 	    public void callPictureAPIWithKeyAndDate(final String key, String date){
-	        apodapiInterface.getPictureWithKeyAndDate(key, date, new Callback<Astropic>() {
+	        apodapiInterface.getPictureWithKeyAndDate(key, date, new Callback&lt;Astropic>() {
 	            @Override
 	            public void success(Astropic astropic, Response response) {
 	                if (astropic.getMediaType() != null && astropic.getMediaType().equals("video")) {
@@ -294,7 +291,7 @@ published: True
 	        });
 	    }
 	}
-	</code></pre>
+	</pre>
 </p>
 <p>
 	Wow, that's a lot to process. Note that the commented lines indicate future code that we'll add to handle various results. Suffice to say, at this point we'll have set up the APICaller such that the variable "astropic" contains the Astropic object we'll need. <br>
