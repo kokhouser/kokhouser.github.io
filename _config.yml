@@ -125,7 +125,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/selfie.jpg"
+timeline-img: "/img/author.jpg"
 
 ###########
 # Contact #
@@ -142,7 +142,7 @@ email: "haozhe@houserk.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "HaoZhe is a budding software developer from Kuala Lumpur, Malaysia. He gets too excited about all thing tech, space and puppies. In his spare time, he cooks, bikes and listens to the same songs on repeat."
-author_blurb_image: "/img/selfie.jpg"
+author_blurb_image: "/img/author.jpg"
 
 ##################
 # Social Buttons #
