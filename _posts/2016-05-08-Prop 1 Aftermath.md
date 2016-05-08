@@ -4,6 +4,8 @@ section-type: post
 title: $0.02 on Proposition 1
 category: tech
 ---
+![](/img/post-rideshare/signs.jpg)
+
 Alright, I rarely tackle political issues publicly, but I figured I'd weigh in on the whole Proposition 1 debacle that happened here in Austin this past weekend.  
 
 I'll be upfront - I'm pretty biased for any initiative that would promote less reliance on personal vehicles but I've tried hard to be objective and studied all I could about both sides, and yet I can easily conclude that the people who voted against (successfully) Prop 1 have fallen victim to the needless fearmongering common to any political issue.
@@ -39,8 +41,6 @@ I think this [article](http://www.dailytexanonline.com/2016/04/25/proposition-1-
 I think that's all I care to say about this camp, never mind that I find it really suspicious that a lot of people are pro-government-regulation all of a sudden (an exercise - look who's really promoting this sentiment and who they get donations from), and that [articles covering this point](http://www.mystatesman.com/news/news/opinion/dont-let-lyft-uber-take-city-for-a-ride-vote-again/nrJGk/) positively *reek* of bias. So that brings me to the third and final camp, one that I swear exist.
 
 ### 3. Uber and Lyft have been annoying me with their campaigns for Prop 1 and I'm voting against them just because I think they're annoying
-
-![](/img/post-rideshare/signs.jpg)
 
 I have no words for you. No words.
 
