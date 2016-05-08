@@ -141,7 +141,7 @@ email: "haozhe@houserk.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "HaoZhe is a software developer in Austin, Texas. He gets too excited about all things tech, space and puppies. In his spare time, he games, bikes and listens to the same songs on repeat."
+author_blurb: "HaoZhe is a software developer living in Austin, Texas. He gets too excited about all things tech, space and puppies. In his spare time, he games, bikes and listens to the same songs on repeat."
 author_blurb_image: "/img/author.jpg"
 
 ##################
