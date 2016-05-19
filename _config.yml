@@ -56,8 +56,12 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Friends over food, because friends can become food."
-  - text: "Perception without comprehension is a dangerous combination."
-  - text: "A better world starts with an increased tolerance for discomfort."
+  # - text: "Perception without comprehension is a dangerous combination."
+  # - text: "A better world starts with an increased tolerance for discomfort."
+  - text: "Flattery without insincerity."
+  - text: "Intelligence without sophistry."
+  - text: "Wisdom without arrogance."
+  - text: "Conviction without stubbornness."
 
 me-img: "/img/selfie.jpg"
 
