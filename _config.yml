@@ -58,10 +58,10 @@ lines: # You can add HTML Tags in the Text
   - text: "Friends over food, because friends can become food."
   # - text: "Perception without comprehension is a dangerous combination."
   # - text: "A better world starts with an increased tolerance for discomfort."
-  - text: "Flattery without insincerity."
-  - text: "Intelligence without sophistry."
-  - text: "Wisdom without arrogance."
-  - text: "Conviction without stubbornness."
+  - text: "Choose flattery without insincerity."
+  - text: "Choose intelligence without sophistry."
+  - text: "Choose wisdom without arrogance."
+  - text: "Choose conviction without stubbornness."
 
 me-img: "/img/selfie.jpg"
 
